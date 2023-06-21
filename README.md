@@ -1,7 +1,7 @@
 
 <h1>React Login Form Projesi</h1>
 
-<img src='/images/banner.png' alt="logo" width={400} />
+<img src='https://github.com/eozkanch/login_page/blob/main/public/images/login_page.jpeg' alt="logo" width={400} />
 
 React Login Form Projesi, kullanıcıların güvenli bir şekilde giriş yapabileceği bir React uygulamasıdır. Bu proje, Next.js yapısal bir çerçeveye sahip olup Tailwind CSS kullanılarak tasarlanmıştır. Kullanıcılar, modern ve kullanıcı dostu bir oturum açma deneyimi elde edebilirler.
 
