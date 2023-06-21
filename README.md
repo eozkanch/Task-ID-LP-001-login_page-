@@ -8,11 +8,15 @@ React Login Form Project is a React application where users can securely log in.
 <h4>Project Features</h4>
 
 Advanced Form Validation: Users are prompted to enter their email addresses and passwords correctly in the login form. The validity of the email address and the complexity of the password are checked.
+
 Password Show/Hide: Users can show or hide the password in the password input field. This feature allows users to easily verify their passwords.
 Social Media Integration: Not yet implemented.
+
 Redirect: After successful login, users can be redirected to the homepage.
+
 Password Reset: When users forget their passwords, they are redirected to the password reset page. They can create a new password and gain access to their accounts.
 Spin Process and Password Example Modal: After users enter their login information correctly, a spinner is displayed to represent the waiting process until the login operation is completed. A modal is available to explain password requirements. Users can open the modal to learn how their passwords should be. This feature helps users create passwords with more awareness.
+
 Responsive Design: The project is developed with responsive design principles to provide a user-friendly experience on different devices.
 
 <h4>Technologies Used</h4>
