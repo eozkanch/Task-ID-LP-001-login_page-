@@ -1,46 +1,7 @@
 
-<h1>React Login Form Projesi</h1>
-
-<img src='https://github.com/eozkanch/login_page/blob/main/public/images/login_page.jpeg' alt="logo" width={400} />
-
-React Login Form Projesi, kullanıcıların güvenli bir şekilde giriş yapabileceği bir React uygulamasıdır. Bu proje, Next.js yapısal bir çerçeveye sahip olup Tailwind CSS kullanılarak tasarlanmıştır. Kullanıcılar, modern ve kullanıcı dostu bir oturum açma deneyimi elde edebilirler.
-
-<h4>Proje Özellikleri</h4>
-
-Gelişmiş Form Doğrulama: Kullanıcılar, oturum açma formunda e-posta adreslerini ve şifrelerini doğru bir formatta girmeleri gerektiğinde uyarılırlar. E-posta adresinin geçerliliği ve şifrenin karmaşıklığı kontrol edilir.
-
-Şifre Gösterme/Gizleme: Kullanıcılar, şifre giriş alanında şifreyi gösterip gizleyebilirler. Bu özellik, kullanıcıların şifrelerini rahatça kontrol etmelerini sağlar.
-
-Sosyal Medya Entegrasyonu: henuz aktif edilmedi.
-
-Yonlendirme:Login isleminden sonra kullnici anasayfaya yonlendireilir
-
-Unutulan Şifre Yenileme: Kullanıcılar, şifrelerini unuttuklarında şifre yenileme sayfasına yönlendirilirler. Bu sayfada yeni bir şifre oluşturarak hesaplarına erişebilirler.
-
-Spin İşlemi ve Şifre Örneği Modalı :Kullanıcı giriş bilgilerini doğru bir şekilde girdikten sonra, oturum açma işlemi gerçekleşene kadar bekleme sürecini temsil etmek için bir Spinner gösterilir.Şifre gereksinimlerini açıklayan bir modal bulunur. Kullanıcılar, modalı açarak şifrelerinin nasıl olması gerektiğini öğrenebilirler. Bu özellik, kullanıcıların şifrelerini oluştururken daha bilinçli olmalarını sağlar.
-
-Responsive Tasarım: Proje, farklı cihazlarda kullanıcı dostu bir deneyim sağlamak amacıyla responsive tasarım prensiplerine uygun olarak geliştirilmiştir.
-
-Next.js: React tabanlı bir framework olan Next.js, bu proje için temel yapısal çerçeveyi sağlamaktadır.
-Tailwind CSS: Proje, modern ve özelleştirilebilir bir görünüm sağlamak için Tailwind CSS kullanmaktadır. CSS sınıflarını doğrudan HTML'e ekleyerek stil uygulamak kolaylaşır.
-React Bootstrap: Hızlı ve kullanımı kolay bileşenlerin oluşturulması için React Bootstrap kütüphanesi tercih edilmiştir.
-Formik: Form yönetimi ve doğrulama işlemleri için Formik kütüphanesi kullanılmıştır.
-Yup: Form doğrulama şemalarını tanımlamak için Yup kütüphanesi tercih edilmiştir.
-
-<h2></h2>
-
-1-Projeyi kendi GitHub hesabınıza "Fork" edin.
-2-Proje dizinine gidin ve gerekli bağımlılıkları yüklemek için aşağıdaki komutu çalıştırın:"npm install"
-3-Geliştirme sunucusunu başlatmak için aşağıdaki komutu kullanın:"npm run dev"
-4-Tarayıcınızda http://localhost:3000 adresine giderek projeyi görüntüleyebilirsiniz.
-
-Umarım bu tanıtım yazısı ihtiyaçlarınıza uygun olmuştur. Projeyle ilgili daha fazla ayrıntı ve kaynak kodlarını GitHub sayfasında bulabilirsiniz.
-
-
-
 <h2>React Login Form Project</h2>
 
-<img src='/images/banner.png' alt="logo" width={400} />
+<img src='https://github.com/eozkanch/login_page/blob/main/public/images/login_page.jpeg' alt="logo" width={400} />
 
 React Login Form Project is a React application where users can securely log in. This project is built on the Next.js framework and designed using Tailwind CSS, providing users with a modern and user-friendly login experience.
 
