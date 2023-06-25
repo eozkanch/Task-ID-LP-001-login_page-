@@ -54,8 +54,8 @@ const Login = () => {
   };
 
   return (
-    <Container className="h-full w-full ">
-      <div className="login  w-12/12 px-5 py-10  bg-opacity-50 bg-[#f7efec] shadow-lg shadow-gray-900 rounded-3xl">
+    <Container className="h-full w-full  ">
+      <div className="login  flex justify-center items-center px-5 py-10  bg-opacity-50 bg-[#f7efec] shadow-lg shadow-gray-900 rounded-3xl">
         <Formik
           initialValues={{
             email: '',
@@ -189,3 +189,4 @@ const Login = () => {
 };
 
 export default Login;
+
